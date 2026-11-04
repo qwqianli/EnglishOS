@@ -4,7 +4,9 @@
 
 > 这里说明这个项目是什么、怎么设计、现在走到哪一步。源码暂未公开，项目持续开发中。
 
-![EnglishOS 大盘](assets/dashboard.png)
+![EnglishOS 演示](assets/demo.gif)
+
+<sub>22 秒：大盘 → 精读语料列表 → 主动召回 → 订阅源矩阵。种子库为演示数据。</sub>
 
 ## 它解决什么问题
 
